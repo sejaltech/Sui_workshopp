@@ -1,2 +1,2 @@
-# Sui_workshopp
-Day 1 and Day 2
+# Sui_Workshopp
+Day 1 &amp; Day 2
